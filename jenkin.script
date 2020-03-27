@@ -1,0 +1,21 @@
+node {
+   
+   stage('SCM Checkout'){
+    git credentialsId: 'git-credential', url: 'https://github.com/chetanpatel1975/my-app-master'
+   
+   }
+ 
+   
+   stage('Mvn Package'){
+	def mvnHome = tool name: 'maven-3', type: 'maven'
+	def mvnCMD = "${mvnHome}/bin/mvn"
+	//sh 'mvn clean package'
+	sh "${mvnCMD} clean package"
+
+    }
+   
+   stage('Build Docker Image'){
+   sh 'docker build -t chetankumarpatel/my-app:2.0.0 .'
+    }
+}
+

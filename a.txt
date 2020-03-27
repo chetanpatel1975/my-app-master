@@ -1,0 +1,1000 @@
+ 1078  git --help
+ 1079  got log
+ 1080  git log
+ 1081  git push
+ 1082  git push --set-upstream origin master
+ 1083  git push -u origin [master]
+ 1084  git commit -m "Last commit"
+ 1085  git branch
+ 1086  git log --summary
+ 1087  git branch
+ 1088  git --help
+ 1089  git show
+ 1090  git log
+ 1091  history >>b.txt
+ 1092  grep -r git b.txt
+ 1093  git config
+ 1094  grep -r git b.txt
+ 1095  git --get
+ 1096  grep -r git b.txt
+ 1097  git status
+ 1098  grep -r git b.txt
+ 1099  git --version
+ 1100  git commint -m "first commit"
+ 1101  git config --list
+ 1102  git commint -m "first commit"
+ 1103  git get --all
+ 1104  git push
+ 1105  git push -u origin [master]
+ 1106  git pull
+ 1107  git help config
+ 1108  git config --help
+ 1109  git init
+ 1110  ls
+ 1111  ls -l
+ 1112  ls -l -r git
+ 1113  git init
+ 1114  pwd
+ 1115  ls -l
+ 1116  rm -rf .git
+ 1117  git init
+ 1118  pwd
+ 1119  cd .gti
+ 1120  cd .git
+ 1121  ls -l
+ 1122  git pull
+ 1123  git bramch
+ 1124  git branch
+ 1125  ls -l
+ 1126  cd ..
+ 1127  ls -a
+ 1128  mkdir
+ 1129  mkdir myproj
+ 1130  cd myproj
+ 1131  git init
+ 1132  ls -a
+ 1133  git status
+ 1134  touch .gitignore
+ 1135  ls -l
+ 1136  ls 
+ 1137  ls -l
+ 1138  touch a.txt\
+ 1139  ls -l
+ 1140  touch .gitignore
+ 1141  ls
+ 1142  vi .gitignore
+ 1143  ls -l
+ 1144  ls -h
+ 1145  ls -ahl
+ 1146  ls -a
+ 1147  git status
+ 1148  cat .gitignore'
+ 1149  cat .gitignore
+ 1150  git add -A
+ 1151  ls -a
+ 1152  git ad -A
+ 1153  git add -A
+ 1154  git status
+ 1155  get reset a.txt
+ 1156  ls -l
+ 1157  ls -ahl
+ 1158  git reset a.txt
+ 1159  ls -ahl
+ 1160  git status
+ 1161  git commit -m "first Commit"
+ 1162  git statuys
+ 1163  git status
+ 1164  git add a.txt
+ 1165  git status
+ 1166  git commit -m '2nd commit file added"
+ 1167  git commit -m "2nd commit file added"
+ 1168  git push
+ 1169  git push https://github.com/chetanpatel1975/MyFirstRepo
+ 1170  git push --set-upstream https://github.com/chetanpatel1975/MyFirstRepo master
+ 1171  git pull
+ 1172  git branch
+ 1173  git branch --help
+ 1174  git clone https://github.com/chetanpatel1975/MyFirstRepo.git
+ 1175  git clone https://github.com/chetanpatel1975/MyFirstRepo.git .
+ 1176  ls -l
+ 1177  cd MyfirstRepo
+ 1178  cd MyFirstRepo
+ 1179  ls -l
+ 1180  gti remote -v
+ 1181  git remote -v
+ 1182  ls -l
+ 1183  vi README.md
+ 1184  git diff
+ 1185  git status
+ 1186  git add -A
+ 1187  git status
+ 1188  git commit -m "Chetan Change file"
+ 1189  git push original master
+ 1190  git pull original master
+ 1191  git pull origin master
+ 1192  git push origin master
+ 1193  ls -l
+ 1194  git chekout docker-compose.yml
+ 1195  git checkout docker-compose.yml
+ 1196  git status
+ 1197  git branch
+ 1198  git branch docker-compose.yml
+ 1199  git status
+ 1200  git checkout docker-compose.yml 
+ 1201  git status
+ 1202  git branch
+ 1203  ls -l
+ 1204  vi README.md
+ 1205  git add -A
+ 1206  git status
+ 1207  git commit -m "Test"
+ 1208  git push -u origin docker-compose.yml 
+ 1209  git branch
+ 1210  git branch origin
+ 1211  git branch
+ 1212  git branch origin master
+ 1213  git branch master
+ 1214  git checkout master
+ 1215  git master
+ 1216  git branch
+ 1217  git pull origin master
+ 1218  git push origin master
+ 1219  git branch -a
+ 1220  git branch --merged
+ 1221  git merge docker-compose.yml 
+ 1222  git push origin master
+ 1223  git branch --merged
+ 1224  git branch -d docker-compose.yml 
+ 1225  git branch -a
+ 1226  git pull origin master
+ 1227  git reset
+ 1228  git status
+ 1229  git log
+ 1230  git log --online
+ 1231  git log --oneline
+ 1232  git branch
+ 1233  ls
+ 1234  touch a.txt
+ 1235  git status
+ 1236  git checkout a.txt
+ 1237  vi a.txt
+ 1238  git checkout a.txt
+ 1239  ls -l
+ 1240  git status
+ 1241  vi README.md
+ 1242  git branch
+ 1243  git status
+ 1244  git checkout README.md
+ 1245  git status
+ 1246  cat README.md
+ 1247  Vi README.md
+ 1248  vi README.md
+ 1249  git checkout .
+ 1250  git status
+ 1251  git add -A
+ 1252  git status
+ 1253  git checkout .
+ 1254  git status
+ 1255  git add *
+ 1256  git status
+ 1257  git reset HEAD a.txt
+ 1258  git status
+ 1259  git checkout a.txt
+ 1260  git commit -m "Last"
+ 1261  git add -A
+ 1262  git commit -m "Last"
+ 1263  git log --oneline
+ 1264  git reset HEAD~1
+ 1265  git log --oneline
+ 1266  git status
+ 1267  git diff
+ 1268  ls -l
+ 1269  git config
+ 1270  git branch
+ 1271  git init
+ 1272  ls -l
+ 1273  ls -alh
+ 1274  git branch
+ 1275  git status
+ 1276  git add -A
+ 1277  git commint -m "file added a.txt"
+ 1278  git commit -m "file added a.txt"
+ 1279  git push origin maser
+ 1280  git push origin master
+ 1281  git status
+ 1282  git diff
+ 1283  git add -A
+ 1284  git status
+ 1285  git comming -m "Test"
+ 1286  git pull origin master
+ 1287  ls
+ 1288  git pull origin master
+ 1289  git commit -m
+ 1290  git commit -m "test"
+ 1291  git push origin master
+ 1292  git log
+ 1293  git log --onelime
+ 1294  git log --oneline
+ 1295  git reset HEAD~1
+ 1296  git log --oneline
+ 1297  git commit -m "Remove file"
+ 1298  git checkout a.txt
+ 1299  git cnfig
+ 1300  git status
+ 1301  git ls
+ 1302  ls
+ 1303  git commit -m "remove"
+ 1304  git pull origin master
+ 1305  git commit -m "Test1"
+ 1306  git add -A
+ 1307  git commit -m "Test1"
+ 1308  git push origin master
+ 1309  git status
+ 1310  git add -A
+ 1311  git status
+ 1312  git pull origin master
+ 1313  git push origin master
+ 1314  git status
+ 1315  ls -l
+ 1316  ls -lah
+ 1317  git pull origin master
+ 1318  ls -alh
+ 1319  git push origin master
+ 1320  find Jenkin*.*
+ 1321  ls
+ 1322  history > h.txt
+ 1323  grep -r find h.txt
+ 1324  find -name jenkin*.*
+ 1325  find -name jenkin*
+ 1326  find . -name jenkin*
+ 1327  find -type \( -name Jenkin*.* )\
+ 1328  find f -type \( -name Jenkin*.* )\
+ 1329  find -type f  -name "t*.txt" or -name "chetan*.*"
+ 1330  find -type f -name "test*.txt"
+ 1331  find . -type f -name "test*.txt"
+ 1332  ls
+ 1333  find -name docker*
+ 1334  find -name "docker*"
+ 1335  find -name "Jenkin*"
+ 1336  find . -name "Jenkin*"
+ 1337  find . -name "jenkin*"
+ 1338  find  -name "jenkin*"
+ 1339  cd \
+ 1340  cd /
+ 1341  find  -name "jenkin*"
+ 1342  find  -name "jenkin.exe"
+ 1343  ls
+ 1344  cd /home/patel/MyProj
+ 1345  cd /home/patel/myproj/MyFirstRepo
+ 1346  ls -l /home/patel/
+ 1347  ls -ahl /home/patel/
+ 1348  git fetch
+ 1349  git fetch origin master
+ 1350  git pull origin master chetan
+ 1351  git pull origin master dev
+ 1352  git pull origin master 
+ 1353  git fetch
+ 1354  git diff
+ 1355  git diff ...origin
+ 1356  git diff origin
+ 1357  git fetch
+ 1358  git log --oneline
+ 1359  git pull origin master
+ 1360  git commit -m "t"
+ 1361  rm h.txt
+ 1362  git commit -m "t"
+ 1363  git push origin master
+ 1364  git fetch
+ 1365  git pull
+ 1366  git fetch
+ 1367  git pull
+ 1368  git fetch
+ 1369  git status
+ 1370  git pull -rebase origin master
+ 1371  git pull --rebase origin master
+ 1372  git mergetool
+ 1373  git mergetool   --tool-help
+ 1374  git mergetool   --tool-araxis
+ 1375  git pull --rebase origin master
+ 1376  git status
+ 1377  du ./* -shx | cut -c 1-3
+ 1378  du ./* -shx | awk '{print $2}'
+ 1379  echo "hey whats up with you" | | awk '{for (i=3; i<NF; i++) printf $i " "; print $NF}'
+ 1380  echo $1
+ 1381  echo $1 $@
+ 1382  echo $1 $2
+ 1383  cat $1
+ 1384  ls
+ 1385  cat $1
+ 1386  cat $1 ?
+ 1387  cat $?
+ 1388  echo $?
+ 1389  git log --summary
+ 1390  git log --oneline
+ 1391  git push -u origin master
+ 1392  git push  origin master
+ 1393  git branch
+ 1394  git branch master
+ 1395  git reflog
+ 1396  git log --oneline
+ 1397  git regflog
+ 1398  clear
+ 1399  git regflog
+ 1400  clear
+ 1401  git reflog
+ 1402  ls -l
+ 1403  vi a.txt
+ 1404  git status
+ 1405  git add -A
+ 1406  git status
+ 1407  git add a.txt & git commit -m "My commit 1"
+ 1408  ls -l
+ 1409  vi b.txt'
+ 1410  vi b.txt
+ 1411  git add b.txt & git commit -m "My commit 2"
+ 1412  ls
+ 1413  ls -l
+ 1414  vi c.txt
+ 1415  git add c.txt & git commit -m "My commit 2"
+ 1416  git logref
+ 1417  git reflog
+ 1418  clear
+ 1419  git reflog
+ 1420  ls -l
+ 1421  vi d.txt
+ 1422  git add d.txt
+ 1423  git status
+ 1424  git commit -m "My commit 4"
+ 1425  clear
+ 1426  git logref
+ 1427  git reflog
+ 1428  clear
+ 1429  git reflog
+ 1430  git reset --hard
+ 1431  git reflog
+ 1432  clear
+ 1433  git reflog
+ 1434  git reset --hard
+ 1435  git reset --hard 977e9fc
+ 1436  git status
+ 1437  git commit -m "final"
+ 1438  git push origin master
+ 1439  history > gitcommand.txt
+ 1440  grep -r git gitcommand.txt
+ 1441  cat vi tomcate.sh
+ 1442  vi tomcate.sh
+ 1443  cd ..
+ 1444  cd..
+ 1445  cd ..
+ 1446  mkdir apache-tomcat
+ 1447  cd apache-tomcat
+ 1448  ls -l
+ 1449  cp /hope/patel/myproj/MyFirstRepo/tomcate.sh /home/patel/apache-tomcate/
+ 1450  cp /home/patel/myproj/MyFirstRepo/tomcate.sh /home/patel/apache-tomcate/
+ 1451  cp /home/patel/myproj/MyFirstRepo/tomcate.sh /home/patel/apache-tomcate/tomcate.sh
+ 1452  ls
+ 1453  cd..
+ 1454  sudo systemctl status tomcat
+ 1455  ls -l/ /opt/tomcat/bin/startup.sh
+ 1456  ls -l /opt/tomcat/bin/startup.sh
+ 1457  cd  /opt/tomcat/bin
+ 1458  cd  /opt/tomcat/bin/
+ 1459  ls 
+ 1460  cd..
+ 1461  cd ..
+ 1462  ls
+ 1463  cd (/etc/systemd/system/tomcat.service
+ 1464  cd /etc/systemd/system/
+ 1465  ls -l
+ 1466  vi tomcat.service
+ 1467  sudo ufw allow 8080
+ 1468  sudo nano /opt/tomcat/conf/tomcat-users.xml
+ 1469  sudo systemctl daemon-reload
+ 1470  sudo systemctl start tomcat
+ 1471  sudo systemctl status tomcat
+ 1472  sudo ufw allow 8020
+ 1473  sudo systemctl start tomcat
+ 1474  sudo systemctl restart tomcat
+ 1475  ls
+ 1476  ls -l
+ 1477  ls -alh
+ 1478  cd ..
+ 1479  cd \
+ 1480  ls -alh
+ 1481  cd /myproj/
+ 1482  cd myproj
+ 1483  cd MyFirstRepo
+ 1484  ls -l
+ 1485  touch gitcreate.sh
+ 1486  vi gitcreate.sh
+ 1487  sudo chmod 777 gitcreate.sh
+ 1488  ,/gitcreate.sh
+ 1489  vi gitcreate.sh
+ 1490  ,/gitcreate.sh
+ 1491  ls -l
+ 1492  pwd
+ 1493  ./gitcreate.sh
+ 1494  git config github.user
+ 1495  ls -l
+ 1496  ls -alh
+ 1497  cd ,github
+ 1498  cd .github
+ 1499  ls -alh
+ 1500  cd ..
+ 1501  cd .git
+ 1502  lis l
+ 1503  ls
+ 1504  vi config
+ 1505  dirname $0
+ 1506  crontab -l
+ 1507  crontab --help
+ 1508  crontab -u patel -l
+ 1509  crontab -
+ 1510  crontab -l
+ 1511  crontab -e
+ 1512  git status
+ 1513  ls
+ 1514  cd myproj
+ 1515  cd MyFirstRepo
+ 1516  git status
+ 1517  git commit -m "My commit"
+ 1518  git add -A'
+ 1519  git add -A
+ 1520  git status
+ 1521  git comint -m "My commit"
+ 1522  git commit -m "My commit 03-11-20"
+ 1523  git pull origin master
+ 1524  git push origi master
+ 1525  git push origin master
+ 1526  exit
+ 1527  cd myproj
+ 1528  cd MyFirstRepo
+ 1529  git status
+ 1530  git push origin master
+ 1531  git diff -tree 
+ 1532  git diff -tree -r 
+ 1533  git brach
+ 1534  git branch
+ 1535  git remot add origin
+ 1536  git branch -a
+ 1537  git log
+ 1538  gti logs oneline
+ 1539  git logs oneline
+ 1540  git log oneline
+ 1541  git log -- oneline
+ 1542  git log --oneline
+ 1543  git branch
+ 1544  git branch -d origin
+ 1545  git branch
+ 1546  git commit -m "my 2nd commit "
+ 1547  git push origin master
+ 1548  git pull origin master
+ 1549  git log --oneline
+ 1550  git diff --tree -r {8d3e783}
+ 1551  git diff --tree -r {8d3e783} commit hostory
+ 1552  git diff --tree -r {8d3e783} commit history
+ 1553  git config –global user.name “chetanpatel1975@gmail.com"
+ 1554  git config –global user.name “chetanpatel1975":
+ 1555  git config –global user.name “chetanpatel1975":
+ 1556  git config –global 
+ 1557  ls -l
+ 1558  stat a.txt
+ 1559  wc a.txt
+ 1560  tail -2 a.txt
+ 1561  tail a.txt
+ 1562  ln a.txt
+ 1563  Alias clear='cls'
+ 1564  alias cls="clear"
+ 1565  cls
+ 1566  w
+ 1567  last
+ 1568  ?
+ 1569  $?
+ 1570  @?
+ 1571  $?
+ 1572  $? 1
+ 1573  echo $?
+ 1574  date
+ 1575  echo $?
+ 1576  df
+ 1577  du
+ 1578  fre
+ 1579  free
+ 1580  fdisk =l
+ 1581  fdisl -l
+ 1582  fdisk =l
+ 1583  fdisk -l
+ 1584  fdisk /home/patel
+ 1585  fdisk /home/patel/Downlods
+ 1586  ls
+ 1587  fdisk .git
+ 1588  ls
+ 1589  fdisk d.txt
+ 1590  netstat | head
+ 1591  password
+ 1592  passwd
+ 1593  du df
+ 1594  du
+ 1595  df
+ 1596  du
+ 1597  top
+ 1598  ps -pid
+ 1599  ps -e
+ 1600  ps -ef
+ 1601  cls
+ 1602  ps -ef
+ 1603  ps tree
+ 1604  ps --tree
+ 1605  pstree
+ 1606  pstree pid
+ 1607  pstree 
+ 1608  pstree =pid
+ 1609  pstree -pid
+ 1610  pstree -H
+ 1611  pstree -p
+ 1612  pstree -i
+ 1613  pstree 
+ 1614  pstree -p
+ 1615  pstree
+ 1616  pstree -p
+ 1617  git log view change
+ 1618  git log --oneline
+ 1619  git pull origin master
+ 1620  git push
+ 1621  push -u origin
+ 1622  git push -u origin
+ 1623  ls
+ 1624  mkdir /Test
+ 1625  sudo mkdor /Test
+ 1626  sudo mkdir /Test
+ 1627  ls /
+ 1628  ls -ahl
+ 1629  sudo su -
+ 1630  bash
+ 1631  sudo su -
+ 1632  kubestl
+ 1633  kubectl
+ 1634  kubectl version
+ 1635  docker container ls
+ 1636  docker container ls -a
+ 1637  docker system prune
+ 1638  docker volume ls
+ 1639  docker volume prune
+ 1640  du
+ 1641  free
+ 1642  pwd
+ 1643  dpkg --status bluez | grep '^Version:'
+ 1644  sudo add-apt-repository ppa:bluetooth/bluez
+ 1645  sudo apt-get update
+ 1646  sudo apt upgrade
+ 1647  sudo apt-get update
+ 1648  sudo apt install pulseaudio pulseaudio-utils pavucontrol pulseaudio-module-bluetooth
+ 1649  sudo gedit /etc/bluetooth/audio.conf
+ 1650  sudo service bluetooth restart
+ 1651  cd  '/home/patel/Documents/home.tar.gz' '/home/patel/Documents/Linux command.odt' exit
+ 1652  exit
+ 1653  echo Hello world | abc.txt
+ 1654  date
+ 1655  pwd
+ 1656  whoiam
+ 1657  whomi
+ 1658  who
+ 1659  whoiam
+ 1660  pwd
+ 1661  '/home/patel/dockerfile-sample-1/data' 
+ 1662  cd '/home/patel/dockerfile-sample-1/products-store-mvc' 
+ 1663  cd \
+ 1664  cd /
+ 1665  cls
+ 1666  clear
+ 1667  ls
+ 1668  cd ls -ahl
+ 1669  ls -alh
+ 1670  cd 
+ 1671  clear
+ 1672  cd myproj
+ 1673  ls
+ 1674  cd MyFirstRepo
+ 1675  ls
+ 1676  git pull 
+ 1677  cd My2ndProj
+ 1678  mkdir My2ndProj
+ 1679  cd ..
+ 1680  cd MyfirstRepo
+ 1681  cd MyFirstRepo
+ 1682  cp *.* /My2ndProj
+ 1683  ls
+ 1684  mkdor My2ndproj
+ 1685  mkdir My2ndproj
+ 1686  ls
+ 1687  rm My2ndproj
+ 1688  rm -d My2ndproj
+ 1689  rm -d My2ndProj
+ 1690  mkdir My2ndproj
+ 1691  ls
+ 1692  cd ..
+ 1693  cp *.* /My2ndproj
+ 1694  cp -r /My2ndproj
+ 1695  cp -r ~/home/patel/myproj/MyFirstRepo/. ~ /home/patel/myproj/MyFirstRepo/My2ndproj
+ 1696  cp -r ~/home/patel/myproj/MyFirstRepo/. ~ /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1697  cp -r ~/home/patel/myproj/MyFirstRepo/ ~/home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1698  cp -r /home/patel/myproj/MyFirstRepo/ /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1699  ls /home/patel/myproj/MyFirstRepo/
+ 1700  cp -r /home/patel/myproj/MyFirstRepo/ /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1701  cp -avr /home/patel/myproj/MyFirstRepo/ /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1702  cd MyFirstRepo/My2ndproj/
+ 1703  ls
+ 1704  cd MyFirstRepo/
+ 1705  ls
+ 1706  cd My2ndproj/
+ 1707  ls
+ 1708  rm *
+ 1709  rm *.*
+ 1710  rm -d *
+ 1711  d ..
+ 1712  cdc
+ 1713  cd \
+ 1714  cd /
+ 1715  cd myproj
+ 1716  ls
+ 1717  cd /home/patel/myproj/MyFirstRepo/
+ 1718  ls
+ 1719  cd ..
+ 1720  mkdir My2ndRepo
+ 1721  ls
+ 1722  cd..
+ 1723  cd ..
+ 1724  cd /home/patel/myproj/
+ 1725  l
+ 1726  ls
+ 1727  clear
+ 1728  ls
+ 1729  cp /home/patel/myproj/
+ 1730  ls 
+ 1731  ls /home/patel/myproj/MyFirstRepo/
+ 1732  cp /home/patel/myproj/MyFirstRepo/  /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1733  cp -r /home/patel/myproj/MyFirstRepo/  /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1734  cp -arv /home/patel/myproj/MyFirstRepo/  /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1735  ls /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1736  cd MyFirstRepo/My2ndproj/
+ 1737  ls
+ 1738  cd ..
+ 1739  ls
+ 1740  ls /home/patel/myproj/MyFirstRepo/My2ndproj/
+ 1741  cd ..
+ 1742  ls
+ 1743  cd My2ndRepo/
+ 1744  ls
+ 1745  git init
+ 1746  git clone
+ 1747  git clone https://github.com/chetanpatel1975/My2ndRepo.git
+ 1748  git init
+ 1749  ls
+ 1750  cat gitcreate.sh
+ 1751  chmod 777 gitcreate.sh
+ 1752  sudo chmod 777 gitcreate.sh
+ 1753  ./gitcreate.sh
+ 1754  git login
+ 1755  git connect
+ 1756  git init
+ 1757  git status
+ 1758  git add -A
+ 1759  git status 
+ 1760  git commit -m "My first commit
+ 1761  git commit -m "My First Commit"
+ 1762  got pull origin master
+ 1763  git pull origin master
+ 1764  git commit -m "first commit"
+ 1765  git remote add origin https://github.com/chetanpatel1975/My2ndRepo.git
+ 1766  git branch
+ 1767  git push -u origin master
+ 1768  git status
+ 1769  git pull origin master
+ 1770  git status
+ 1771  git push -u origin master
+ 1772  sudo git push -u origin master
+ 1773  ls
+ 1774  rm z.txt
+ 1775  git commit -m "Final"
+ 1776  git status 
+ 1777  git add -A
+ 1778  git commit -m ":Final"
+ 1779  git push -u origin master
+ 1780  touch myfile.txt
+ 1781  git status
+ 1782  git add -A
+ 1783  git commit -m "myfile.txt added"
+ 1784  git pull origin master
+ 1785  git push -u origin master
+ 1786  touch My2ndfile.txt
+ 1787  git add -A
+ 1788  git commit -m "2nd file added"
+ 1789  git push -u origin master
+ 1790  ls
+ 1791  git status
+ 1792  git push -u origin master
+ 1793  ls -alh
+ 1794  cd .git
+ 1795  ls 
+ 1796  cat config
+ 1797  git config --global credential.helper store
+ 1798  git pull
+ 1799  cd ..
+ 1800  git config --global credential.helper store
+ 1801  git pull
+ 1802  git push -u origin master
+ 1803  git config --global credential.helper store
+ 1804  git push -u origin master
+ 1805  git remote set-url origin git@github.com:chetanpatel1975@gmail.com/repo.git
+ 1806  git statuys
+ 1807  git status
+ 1808  git add -A
+ 1809  git commit -m "pipeline yaml file changed"
+ 1810  git push -u origin master
+ 1811  git pull 
+ 1812  git push -u origin master
+ 1813  git config --global credential.helper store
+ 1814  git push -u origin master
+ 1815  git pull
+ 1816  git remote set-https://github.com/chetanpatel1975/My2ndRepo.git origin git@github.com:chetanpatel1975@gmail.com/repo.git
+ 1817  git remote add staging https://github.com/chetanpatel1975/My2ndRepo.git
+ 1818  git pull
+ 1819  git push -u origin master
+ 1820  ssh -T chetanpatel1975@gmail.com
+ 1821  ssh -vT git@github.com
+ 1822  ssh -T GITHUB-USERNAME@github.com
+ 1823  ssh -T chetanpatel1975@gmail.com
+ 1824  https://github.com/USERNAME/REPOSITORY.git
+ 1825  https://github.com/chetanpatel1975@gmail.com/REPOSITORY.git
+ 1826  https://github.com/chetanpatel1975/My2ndRepo.git
+ 1827  git remote -v
+ 1828  git staginghttps://github.com/chetanpatel1975/My2ndRepo.git (push)
+ 1829  git push
+ 1830  git pull
+ 1831  git clone https://github.com/chetanpatel1975/My2ndRepo.git
+ 1832  git pull
+ 1833  sudo git pull
+ 1834  sudo git push -u origin master
+ 1835  ls 
+ 1836  ls -alh
+ 1837  cd .git
+ 1838  ls
+ 1839  cat config
+ 1840  vi config
+ 1841  cd ..
+ 1842  sudo git push -u origin master
+ 1843  cd..
+ 1844  cd ..
+ 1845  ls
+ 1846  cd MyFirstRepo/
+ 1847  ls 
+ 1848  cd .git
+ 1849  cat config
+ 1850  git push -u origin master
+ 1851  cd ..
+ 1852  cd My3rdProj
+ 1853  mkdir My3dproj
+ 1854  cd My3rdproj
+ 1855  git init
+ 1856  ls
+ 1857  cd.git
+ 1858  cd .git
+ 1859  cat config
+ 1860  cd ..
+ 1861  ls
+ 1862  cd My3dproj/
+ 1863  ls
+ 1864  git init
+ 1865  git clone https://github.com/chetanpatel1975/My2ndRepo.git
+ 1866  git pull
+ 1867  git pull origin master
+ 1868  git pull
+ 1869  ls 
+ 1870  cd My2ndRepo/
+ 1871  ls
+ 1872  ls -alh
+ 1873  git pull
+ 1874  git push -u original master
+ 1875  git branch
+ 1876  git push -u origin master
+ 1877  ls -l
+ 1878  git pull
+ 1879  ls -l
+ 1880  vi 10.tzt'
+ 1881  vi 10.txt
+ 1882  git status
+ 1883  git add *
+ 1884  git status
+ 1885  git commit -m "new file added "
+ 1886  git push -u origin master
+ 1887  git push
+ 1888  cd..
+ 1889  cd ..
+ 1890  ls
+ 1891  cd ..
+ 1892  cd My2ndRepo/
+ 1893  l
+ 1894  ls
+ 1895  cat 01-first-azure-pipelines.yml 
+ 1896  git pull
+ 1897  cd ..
+ 1898  ls
+ 1899  cd cd My2ndRepo/
+ 1900  ls
+ 1901  cd My2ndRepo/
+ 1902  ls
+ 1903  ls -lah
+ 1904  cd My2ndRepo/
+ 1905  ls -la
+ 1906  clear
+ 1907  ls -l
+ 1908  cd ..
+ 1909  ls -l
+ 1910  cd ..
+ 1911  ls
+ 1912  ls -l
+ 1913  clear
+ 1914  ls
+ 1915  cd MyFirstRepo/
+ 1916  ls -0l
+ 1917  ls -l
+ 1918  cd My3dproj/
+ 1919  ls pl
+ 1920  ls
+ 1921  cd My2ndRepo/
+ 1922  ls
+ 1923  ls -l
+ 1924  git pull
+ 1925  git status
+ 1926  git add -A
+ 1927  git commit -m "file changed"
+ 1928  git push  -u origin master
+ 1929  git status
+ 1930  git add -A
+ 1931  git commit -m "Jobs added"
+ 1932  git push -u origin master
+ 1933  git add -A
+ 1934  git commit -m "Jobs added"
+ 1935  git push -u origin master
+ 1936  git pull
+ 1937  git status
+ 1938  git add -A
+ 1939  git commit -m " Multiple job added"
+ 1940  git push -u origin master
+ 1941  git pull
+ 1942  ls
+ 1943  vi 01-first-azure-pipelines.yml 
+ 1944  git status
+ 1945  git add -A
+ 1946  git commit -m "Add dependenson"
+ 1947  git push -m origin master
+ 1948  git push -u origin master
+ 1949  git add -A
+ 1950  git commit -m "Add dependenson"
+ 1951  git push -u origin master
+ 1952  ls -R
+ 1953  ls
+ 1954  ls -R
+ 1955  git pull
+ 1956  git status
+ 1957  touch b.txt
+ 1958  git status
+ 1959  git branch
+ 1960  git status
+ 1961  ls -l
+ 1962  vi 10.txt
+ 1963  git status
+ 1964  ls
+ 1965  touch 11.txt
+ 1966  ls
+ 1967  git add 11.txt
+ 1968  git status
+ 1969  git add *
+ 1970  git status
+ 1971  git push -u origin master
+ 1972  git commit -m "one file added"
+ 1973  git push -u origin master
+ 1974  ls
+ 1975  vi aa.txt
+ 1976  git stutus
+ 1977  git branch
+ 1978  vi 02-understanidng-staging.yml 
+ 1979  git branch
+ 1980  git status
+ 1981  git add -A
+ 1982  git commit -m "Yaml file modified"
+ 1983  git push -u origin master
+ 1984  git pull
+ 1985  git status
+ 1986  git commit -u origin master
+ 1987  git commit -m "Final"
+ 1988  git push -u origin master
+ 1989  docker-machine ip
+ 1990  ipcong
+ 1991  ifconfig
+ 1992  docker ps
+ 1993  docker system praune
+ 1994  docker system prune
+ 1995  docker volume prune
+ 1996  docker ps -a
+ 1997  docker images
+ 1998  docker run -t Mytomcat tomcat -p 8000:8000 -it -d
+ 1999  docker run -t mytomcat tomcat -p 8000:8000 -it -d
+ 2000  docker login
+ 2001  docker run -t mytomcat tomcat -p 8000:8000 -it -d
+ 2002  docker run -it -d -p 8012:80 tomcat
+ 2003  docker ps
+ 2004  docker stop tomcat
+ 2005  docker stop f6b62861f3e3
+ 2006  LS- R
+ 2007  ls- R
+ 2008  ls -R --help
+ 2009  la
+ 2010  ls
+ 2011  ls -R
+ 2012  ls -R chetan
+ 2013  ls -R patel
+ 2014  ls -R temp
+ 2015  clear
+ 2016  cd /home/patel/myproj
+ 2017  ls
+ 2018  cd my-app-master
+ 2019  git init
+ 2020  ls 
+ 2021  ls
+ 2022  ls =lah
+ 2023  ls =alh
+ 2024  la -alh
+ 2025  cd .git
+ 2026  ls
+ 2027  cat config
+ 2028  cd ..
+ 2029  clear
+ 2030  git branch
+ 2031  git status
+ 2032  git init
+ 2033  git add =A
+ 2034  git add -A
+ 2035  git commit -m "first commit"
+ 2036  git remote add origin https://github.com/chetanpatel1975/my-app-master.git
+ 2037  git push -u origin master
+ 2038  git pull
+ 2039  git push -u origin master
+ 2040  sudo apt update
+ 2041  sudo apt install maven
+ 2042  mvn -version
+ 2043  sudo apt update
+ 2044  sudo apt install default-jdk
+ 2045  java -version
+ 2046  wget https://www-us.apache.org/dist/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz -P /tmp
+ 2047  sudo tar xf /tmp/apache-maven-*.tar.gz -C /opt
+ 2048  docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2049  docker login
+ 2050  docker images
+ 2051  docker ps
+ 2052  docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2053  cat dockerfile
+ 2054  ls 
+ 2055  cat Dockerfile
+ 2056  docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2057  ls
+ 2058  cd temp
+ 2059  ls -alh
+ 2060  docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2061  vi  Dockerfile
+ 2062  git pull
+ 2063  cat Dockerfile
+ 2064  docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2065  sudo usermod -aG docker ${USER}
+ 2066  su -s ${USER}
+ 2067  docker run hello-world
+ 2068  docker run -it ubuntu bash
+ 2069  sudo systemctl status docker
+ 2070  docker ps
+ 2071  sudo docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2072  vi Dockerfile
+ 2073  sudo docker build -t chetankumarpatel/my-app:2.0.0 .
+ 2074  docker doamon
+ 2075  docker login
+ 2076  docker run mysql -e MYSQL_ALLOW_EMPTY_PASSWORD=trye mysql
+ 2077  history > a.txt
