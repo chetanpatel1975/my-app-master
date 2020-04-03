@@ -93,6 +93,7 @@ My Testing
  1169  git push https://github.com/chetanpatel1975/MyFirstRepo
  1170  git push --set-upstream https://github.com/chetanpatel1975/MyFirstRepo master
  1171  git pull
+ Testing
  1172  git branch
  1173  git branch --help
  1174  git clone https://github.com/chetanpatel1975/MyFirstRepo.git
